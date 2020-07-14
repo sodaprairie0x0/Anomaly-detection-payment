@@ -1,6 +1,5 @@
 # Anomaly-detection-payment
-Notebook please view [here]
-(#https://nbviewer.jupyter.org/github/BambooPalace/Anomaly-detection-payment/blob/master/Anomaly_detection_on_payment_data.ipynb).
+Notebook please view [here.](#https://nbviewer.jupyter.org/github/BambooPalace/Anomaly-detection-payment/blob/master/Anomaly_detection_on_payment_data.ipynb)
 ## Problem statement
 In this dataset, each customer is classified as high or low credit risk according to the set of features and payment history. 
 If label is 1, the customer is in high credit risk. Dataset imbalance ratio is 20%.
